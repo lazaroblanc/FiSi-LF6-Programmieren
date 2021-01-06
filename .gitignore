@@ -1,0 +1,8 @@
+*.png
+*.xlsx
+*.pdf
+*.layout
+*.dev
+*.o
+Makefile.win
+*.exe
